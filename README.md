@@ -1,13 +1,13 @@
 # Milk-Quality-Classification-ML
 
-### README: Milk Quality Classification Using Machine Learning
-
 #### Project Overview
 This project applies **supervised machine learning** to classify milk quality based on seven chemical and sensory features. We implement and compare **Logistic Regression, Decision Trees, and Random Forests**, evaluating their performance through **cross-validation, hyperparameter tuning, and normalization**. Additionally, we explore **TabR (2023)**, a hybrid deep learning model that integrates k-Nearest Neighbors (KNN) for tabular data classification.
 
 #### Dataset
 - **Source**: Kaggle  
-- **Size**: 1,059 entries  
+- **Size**: 1,059 entries
+- **Missing data**: 0
+- **Duplicated data**: 976
 - **Features**:
   - pH  
   - Temperature  
