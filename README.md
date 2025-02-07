@@ -56,4 +56,4 @@ This project applies **supervised machine learning** to classify milk quality ba
 2. Gorishniy, Y., Rubachev, I., Kartashev, N., Shlenskii, D., Kotelnikov, A., & Babenko, A. (2023). *TabR: Tabular Deep Learning Meets Nearest Neighbors in 2023*. arXiv preprint arXiv:2307.14338.  
 
 #### Repository Link
-[GitHub Repository](https://github.com/skywalker007-cpu/DATA572_Project.git)
+[GitHub Repository](https://github.com/SkylarShao97/Milk-Quality-Classification-ML.git)
